@@ -1,0 +1,16 @@
+body {background-color: rgb(226, 219, 211)}
+#s1 {float: left;
+     width: 30%;
+     margin-left: 25px;
+    }
+#s2 {width: 50%;
+    font-size: 20px
+    }
+
+#s3 {float: right;
+     width: 20%;
+    }
+.container a:link{
+    color: red;
+    }
+
