@@ -1,0 +1,56 @@
+.btn-linkedin {
+  background: #0e76a8;
+  border-radius: 0;
+  color: #fff;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #084461;
+}
+.btn-linkedin:link,
+.btn-linkedin:visited {
+  color: #fff;
+}
+.btn-linkedin:active,
+.btn-linkedin:hover {
+  background: #084461;
+  color: #fff;
+}
+
+#ps {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+
+.card-text {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+
+.page-header {
+  font-family: "Noto Serif", serif;
+}
+
+.jumbotron {
+  padding-top: 5px;
+  padding-bottom: 0px;
+}
+
+#myCarousel {
+  padding-top: 0px;
+  margin: auto;
+  width: 640px;
+}
+
+.githublinks {
+  font-size: 18px;
+  color: #084461;
+}
+
+.card-title {
+  font-family: "Noto Serif", serif;
+}
+
+.col-md-8 {
+  margin-top: 120px;
+  margin-left: 3vw;
+}
